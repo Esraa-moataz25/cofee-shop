@@ -1,2 +1,7 @@
 jggcbfggbchghggcbgc
+<<<<<<< HEAD
 prin t 2
+=======
+print3
+print 
+>>>>>>> dec0f54 (chery)
